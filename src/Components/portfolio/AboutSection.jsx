@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import btsimage from "/src/photos_compressed/diablo/2.webp";
+import btsimage from "/src/photos_compressed/best/DSC08881.webp";
 
 
 export default function AboutSection() {

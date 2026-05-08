@@ -38,7 +38,7 @@ export default function SocialLinks() {
           <p className="text-[#d4a853] text-xs uppercase tracking-[0.4em] mb-4">Connect</p>
           <h2 className="text-3xl md:text-4xl font-light text-white mb-4">Social Pages:</h2>
           <p className="text-white/50 text-sm max-w-md mx-auto mb-12">
-            Follow along for behind-the-scenes content, new releases, and automotive inspiration.
+            Follow along for latest content, announcements, and photos with special vfx.
           </p>
         </motion.div>
 
