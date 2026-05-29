@@ -1,6 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { ChevronDown } from "lucide-react";
-import heroImage from "/src/photos/best/DSC08330.jpg";
+import heroImage from "/src/photos/best/1.webp";
 
 export default function HeroSection() {
   const scrollToGallery = () => {
